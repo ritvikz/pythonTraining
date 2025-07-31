@@ -1,4 +1,4 @@
-nteger.
+#Integer.
 def suma(a):
     lista = list(str(a))
     itemsum = 0
@@ -157,16 +157,11 @@ print(longest("I love programming in Python"))
 
 
 print("14. Create a custom sort function that sorts a list of tuples by the second element.")
-
+'''
 listtuple = [(1, 3), (2, 1), (5, 2)]
 sortedlist = []
 for i in listtuple:
     sort(i)
     sortedlist.append(i)
     print(sortedlist)
-
-
-
-
-
-à
+'''
