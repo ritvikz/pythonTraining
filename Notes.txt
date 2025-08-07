@@ -1,0 +1,68 @@
+git remote add origin https://github.com/ritvikz/pythonTraining.git
+
+git token
+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
+
+
+ssh-acl
+ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIO5SYDcT6hm4GvDomPXeTqRVffN4pBTNS2j9ujC6CF+p ritvikchouhan77@gmail.com
+
+
+git pull origin main
+
+git add .
+git commit -m "your meaningful message here"
+git push origin main
+
+
+
+git add path/to/your/file.py
+git commit -m "Update only this file"
+git push origin main
+
+
+
+
+
+
+
+
+
+================================================================================================================
+
+Tell me something about yourself
+
+“I’m Ritvik, a QA Engineer with over 3.5+ years of experience in manual testing. I’ve worked extensively on functional, regression, integration, end-to-end, smoke, sanity, performance, UI, and compatibility testing across web and mobile platforms.
+
+My key project was a Network Monitoring System (NMS), which was primarily web-based but also had a mobile app. I managed the entire QA process/cycle—starting from requirement analysis, RTM creation, test lab setup, defining test scope, writing detailed test plans, executing test cases, tracking efforts, maintaining tecnical documents, preparing test completion reports,  and release compliance. I followed Agile methodologies and used tools like JIRA,,, Postman for API testing, JMeter and Locust for performance testing, and Selenium with Java for partial automation.
+
+I also tested a transportation tracking app for iOS and Android, focusing on UI, functional, and cross-platform compatibility testing, while ensuring quick resolution of issues through close coordination with developers. My strength lies in ensuring end-to-end quality through solid planning, coverage, and communication.
+
+
+
+
+
+==================================================================================================================
+Interview Outro
+How to Say It at the End of the Interview
+If the interviewer asks, “Do you have anything else you’d like to add?” or “Any questions for us?”, you can say something like:
+
+“Yes, just one thing I’d like to mention. When I started my first project, I had no prior experience with networking or that domain at all. But I put in extra effort to understand everything from scratch, and within a short time, I became the go-to QA person for that product. In fact, I was trusted with managing the full QA cycle early in my career because of that. I strongly believe that even if I don’t know something today, I can learn it fast and contribute effectively. I’m always eager to grow and take ownership.”
+
+🛠️ How to Recover If You Get Stuck in the Interview
+If you're asked a technical question you can’t fully answer, don’t panic. Instead of saying “I don’t know”, say:
+
+“I’m not completely sure about the exact answer right now, but I would definitely look it up and make sure I understand it. That’s something I’ve always done—whenever I came across unfamiliar tools or concepts, I made sure to learn and apply them quickly. That’s how I picked up things like JMeter, Postman, and even networking protocols in my first project. So even if I don’t have the answer today, I’ll make sure I do tomorrow.”
+
+🔑 Key Phrases You Can Use Naturally
+“I believe my strength is learning fast under real-world project pressure.”
+
+“If I don’t know something, I make sure to not just learn it but become confident enough to use it in practice.”
+
+“I was new to networking when I started, but I made myself the most reliable QA for that domain.”
+
+“I thrive in unfamiliar or challenging environments because they push me to grow.”
+
+💡 Tip:
+Practice these in a calm, confident tone—not rushed, not defensive. Show self-awareness and eagerness to grow, and turn any mistake into a strength by reinforcing your learning mindset.
+
