@@ -42,4 +42,3 @@ print(obj.Sum())
 obj1 = Claculator(4, 5)
 obj1.getData()
 print(obj1.Sum())
-#12345
