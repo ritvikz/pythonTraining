@@ -1,7 +1,7 @@
 '''What is an Exception?
 An exception is an error that occurs during program execution.
 If not handled, it stops your program.
-Below is an exercise 
+Below is an exercise
 '''
 
 
@@ -22,3 +22,13 @@ try:
     add_to_cart(-1)
 except Exception as e:
     print(e)
+
+person = ("Rahul", 25, 5.9)
+
+
+print(f"Age: {person[1]}")
+
+try:
+    person[0] = "Amit"
+except Exception as e:
+    print(f"Error: {e} - Tuples are immutable")

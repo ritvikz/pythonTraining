@@ -23,22 +23,29 @@ class Claculator:
     # self keyword is mandatory for calling variable names into method
     def getData(self):
         print("I am now executing as method in class")
+        return "test"
 
-    def Sum(self):
+    def Sum(self, c):
         #In python always attach self. to call any variable
         # For class variable: it is always written with self keyword or with the class name Claculator.num
-        return self.a + self.b + self.num # OR Claculator.num
+        return self.a + self.b + self.num +c # OR Claculator.num
+
+
 
 
 
 
 #to call a class we create an object of that particular class just like in java but the syntax is different
 obj = Claculator(2,3) #Syntax to create objects in python
+print(obj)
 obj.getData()
+print(obj.a)
 print(obj.num)
-print(obj.Sum())
+print(obj.Sum(4))
+
+
 
 #Example 2:
 obj1 = Claculator(4, 5)
 obj1.getData()
-print(obj1.Sum())
+print(obj1.Sum(8))
