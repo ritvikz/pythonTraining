@@ -1,0 +1,2 @@
+Hello Automation QA!
+This is new line
