@@ -38,9 +38,9 @@ class Claculator:
 #to call a class we create an object of that particular class just like in java but the syntax is different
 obj = Claculator(2,3) #Syntax to create objects in python
 print(obj)
-obj.getData()
-print(obj.a)
-print(obj.num)
+obj.getData() #method
+print(obj.a) #attribute
+print(obj.num) #attribute
 print(obj.Sum(4))
 
 
@@ -49,3 +49,29 @@ print(obj.Sum(4))
 obj1 = Claculator(4, 5)
 obj1.getData()
 print(obj1.Sum(8))
+
+
+
+#__str__ Function
+class Person:
+    def __init__(self, name, age):
+        self.name = name
+        self.age = age
+
+    def __str__(self):
+        return f"{self.name}, {self.age} years old"
+
+
+p1 = Person("Alice", 25)
+print(p1)  # Alice, 25 years old
+
+#Delete Objects
+#You can delete an object using del.
+p = Person("Alice")
+del p
+# print(p)  # This would raise an error
+
+#pass Statement
+#pass is a placeholder that does nothing. Useful when you want an empty class or function.
+class EmptyClass:
+    pass

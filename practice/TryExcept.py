@@ -3,9 +3,6 @@ An exception is an error that occurs during program execution.
 If not handled, it stops your program.
 Below is an exercise
 '''
-
-
-
 ItemsInCart = 0
 def add_to_cart(items_to_add):
     global ItemsInCart

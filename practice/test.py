@@ -19,3 +19,6 @@ p1.pay(500)   # Paid 500 using Credit Card
 
 p2 = UPIPayment()
 p2.pay(200)   # Paid 200 using UPI
+
+
+
