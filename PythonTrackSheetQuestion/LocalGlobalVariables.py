@@ -86,7 +86,7 @@ str5 = "Python"
 print("py" in str5)
 
 
-#WAP to calculate the number of all possible substrings of a string
+#8WAP to calculate the number of all possible substrings of a string
 
 text4 = "abcd"
 n = len(text4)
@@ -94,17 +94,17 @@ total_substrings = n * (n + 1) // 2
 
 print(total_substrings)
 
-# WAP to swap characters of a given string
+#9 WAP to swap characters of a given string
 swap1 = "Python is funny language"
 print(swap1.replace("funny", "easy"))
 
 
-#WAP to remove a character from a specified index in a string
+#10WAP to remove a character from a specified index in a string
 s = "Python is funny language"
 index = 3
 print(s[:index] + s[index+1:])
 
-#WAP to Find all permutations of a given string in Python
+#11 WAP to Find all permutations of a given string in Python
 s = "abc"
 result = [s[0]]   # start with first character
 
@@ -120,13 +120,13 @@ print("All permutations of", s, "are:")
 print(result)
 
 
-#Write a function to find sum of two integral numbers in string format.
+#12 Write a function to find sum of two integral numbers in string format.
 def Sun(a,b):
     return int(a) +int(b)
 
 print(Sun("2","3"))
 
-#WAP to Find the frequency of each character in a string
+#13 WAP to Find the frequency of each character in a string
 text = 'banana'
 
 
