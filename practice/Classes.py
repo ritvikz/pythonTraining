@@ -75,3 +75,6 @@ del p
 #pass is a placeholder that does nothing. Useful when you want an empty class or function.
 class EmptyClass:
     pass
+
+
+#git test fr
